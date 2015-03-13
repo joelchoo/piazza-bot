@@ -22,3 +22,8 @@ PIAZZA_EMAIL = 'your_piazza_email@email.com'
 # Your Piazza password (ugh)
 PIAZZA_PASSWORD = 'your_piazza_password'
 
+# Your Piazza class ID
+PIAZZA_CLASS_ID = 'l343k54j343lk5j43'
+
+# Email address of bot you're sending email out from
+BOT_EMAIL = 'your_bot@email.com'
